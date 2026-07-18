@@ -1,3 +1,26 @@
+# 내 포트폴리오
+
+배포한 프로젝트 3개를 모아둔 개인 포트폴리오 사이트입니다.
+
+## 프로젝트 목록
+
+- **MyToDo** — 할 일을 관리하는 To-Do 앱
+- **MyDataInsight** — 데이터를 분석하고 시각화하는 앱
+- **MyTechResearch** — 기술 트렌드를 조사하는 앱
+
+## 사용 기술
+
+- React
+- Vite
+- Vercel (배포)
+
+## 실행 방법
+
+\`\`\`bash
+npm install
+npm run dev
+\`\`\`
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
