@@ -86,7 +86,6 @@ body {
   font-size: 0.9rem;
 }
 
-/* 반응형: 화면이 좁아지면 카드 1줄로 */
 @media (max-width: 640px) {
   .header h1 {
     font-size: 1.8rem;
